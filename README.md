@@ -1,2 +1,23 @@
 # clock-app
-This is my Javascript clock
+
+## Description
+To deliver projects always on time. Technologies I have used: HTML, CSS, Javascript.
+
+
+## Autor
+**Manuel Elías Rey Álvarez (@maelcar)**
+
+* [Portfolio web]()
+* [Linkedin]()
+
+## View App online
+[VowelCounter]()
+
+
+
+## Install
+This App doesn't require installation, click on index.html
+
+
+## Hire
+If you want to hire me you can write to realmaelcar@gmail.com
